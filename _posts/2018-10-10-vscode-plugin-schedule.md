@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "vscode 插件 markdown-schedule-snippet"
+title:  "最強の風俗案内所💁"
 categories: JavaScript
-tags: 效率 vscode markdown
-author: HyG
+tags: 風俗 AVサイト markdown
+author: takagotch
 ---
 
 * content
 {:toc}
 
-## 起因
+## 最強の風俗案内所💁
 
-不知道大家是怎样安排自己的日常计划的，我习惯是建立一个仓库，按照年/周记录在 markdown 里，平时这个仓库也写点简单的 demo，目录类似如下：
+最強のシステム開発について：
 
 ``` bash
 week
