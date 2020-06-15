@@ -7,7 +7,7 @@
 
 # Site settings
 title: TKVTV
-brief-intro: Front-end Dev Engineer
+brief-intro: 取引量No.1！ *当社比
 baseurl: "/page74/" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: gaohaoyang
 linkedIn_username: gaohaoyang
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 日本一の激安王！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
